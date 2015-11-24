@@ -1,4 +1,4 @@
-The is hackerearth ZoomCar project chanllenge
+This is hackerearth ZoomCar project chanllenge
 
 Features asked
 Display all items from API
